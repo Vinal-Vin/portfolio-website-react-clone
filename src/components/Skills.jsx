@@ -7,7 +7,7 @@ import react from "../assets/react.png";
 
 const Skills = () => {
   return (
-    <div className="py-auto">
+    <div className="max-w-[1200px] mx-auto p-5" id="skills">
       <div className="my-auto mx-6">
         <h1 className="text-4xl font-bold mb-4 primary-color">My Tech Stack</h1>
       </div>
